@@ -13,14 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Arockia Nirmal Amala Doss
+title: AN
 email:
 description: >- # this means to ignore newlines until "baseurl:"
   I am Arockia Nirmal, a skilled Freelance Data Engineer based in Germany. 
   With expertise in designing and implementing data-driven solutions, I help businesses transform raw data into actionable insights
-twitter_username: username
+#twitter_username: username
 github_username: arockianirmal26
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: true
 
 # Build settings
@@ -30,7 +30,7 @@ remote_theme: mmistakes/minimal-mistakes
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: Europe/Berlin # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
