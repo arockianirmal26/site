@@ -61,21 +61,21 @@ author:
   avatar: "/assets/images/bio-photo.png"
   bio: "I am Arockia Nirmal, a skilled Freelance Data Engineer based in Germany. With expertise in designing and implementing data-driven solutions, I help businesses transform raw data into actionable insights"
   links:
+    - label: " Linkedin"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/arockianirmal/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.zippytec.de/"
-    - label: "Linkedin"
-      icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/in/arockianirmal/"
 
 footer:
   links:
+    - label: " Linkedin"
+      icon: "fa-brands fa-linkedin"
+      url: "https://www.linkedin.com/in/arockianirmal/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.zippytec.de/"
-    - label: "Linkedin"
-      icon: "fa-brands fa-linkedin"
-      url: "https://www.linkedin.com/in/arockianirmal/"
 
 defaults:
   # _posts
