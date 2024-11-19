@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Arockia Nirmal
+title: Arockia Nirmal Amala Doss
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  I’m Arockia Nirmal, a skilled Freelance Data Engineer based in Germany. 
+  I am Arockia Nirmal, a skilled Freelance Data Engineer based in Germany. 
   With expertise in designing and implementing data-driven solutions, I help businesses transform raw data into actionable insights
-#twitter_username: username
+twitter_username: username
 github_username: arockianirmal26
 minimal_mistakes_skin: default
 search: true
@@ -57,9 +57,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name: "First Lastname"
-  avatar: "/assets/images/bio-photo.jpg"
-  bio: "My awesome biography constrained to a sentence or two goes here."
+  name: "Arockia Nirmal Amala Doss"
+  avatar: "/assets/images/bio-photo.png"
+  bio: "I am Arockia Nirmal, a skilled Freelance Data Engineer based in Germany. With expertise in designing and implementing data-driven solutions, I help businesses transform raw data into actionable insights"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
