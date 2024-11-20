@@ -76,6 +76,8 @@ footer:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.zippytec.de/"
+  atom_feed:
+    hide: true
 
 defaults:
   # _posts
