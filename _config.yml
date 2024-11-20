@@ -22,6 +22,8 @@ description: >- # this means to ignore newlines until "baseurl:"
 github_username: arockianirmal26
 minimal_mistakes_skin: contrast
 search: true
+atom_feed:
+  hide: true
 
 # Build settings
 markdown: kramdown
@@ -76,8 +78,6 @@ footer:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://www.zippytec.de/"
-  atom_feed:
-    hide: true
 
 defaults:
   # _posts
